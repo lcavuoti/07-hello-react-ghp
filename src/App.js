@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <h1>
-          hello
+          hello from CRA (CSR) vs. Nextjs (SSR)
           </h1>
 
 
